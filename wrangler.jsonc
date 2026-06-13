@@ -1,11 +1,12 @@
-    {
+
+{
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "dhamma-legacy-web",
   "compatibility_date": "2026-06-13",
   "compatibility_flags": ["nodejs_compat"],
-  "main": "@tanstack/react-start/server-entry",
+  "main": "./dist/server/server.js",
   "observability": { "enabled": true },
   "assets": {
-    "directory": "dist/client"
+    "directory": "./dist/client"
   }
 }
