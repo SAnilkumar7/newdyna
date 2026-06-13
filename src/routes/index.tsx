@@ -96,7 +96,7 @@ function Home() {
       {/* VISION */}
       <section className="relative overflow-hidden bg-[var(--royal-deep)] py-24 text-white md:py-32">
         <div className="absolute inset-0 opacity-10" style={{ backgroundImage: "radial-gradient(circle at 20% 20%, var(--gold) 0%, transparent 40%), radial-gradient(circle at 80% 80%, var(--gold) 0%, transparent 40%)" }} />
-        <div className="container-page relative">
+        <div className="Text white relative container-page">
           <Reveal>
             <SectionHeading center eyebrow="Our Vision" title="A society of peace, equality, wisdom and dignity." subtitle="Four guiding lights that shape every initiative we undertake." />
           </Reveal>
