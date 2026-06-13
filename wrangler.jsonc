@@ -1,7 +1,7 @@
 
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "dhamma-legacy-web",
+  "name": "newdyna",
   "compatibility_date": "2026-06-13",
   "compatibility_flags": ["nodejs_compat"],
   "main": "./dist/server/server.js",
